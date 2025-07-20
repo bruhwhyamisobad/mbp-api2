@@ -1,0 +1,4 @@
+name = "mbp-api2"
+main = "src/index.ts"
+workers_dev = true
+compatibility_date = "2022-09-10"
